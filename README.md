@@ -1,7 +1,7 @@
 ## Website Link
 <p align="center">
 <a href="https://gau132.github.io/gpe-helper2.0/" target="_blank">
-<img src="src/index.jpg" >
+<img src="src/url.jpg" >
 </a>
 </p>
 
@@ -24,7 +24,6 @@
 - (新增) 題目參考答案
 
 ## Screenshots
-
 ![](src/index.jpg)
 ![](src/search.png)
 ![](src/answer.jpg)

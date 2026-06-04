@@ -7,6 +7,7 @@ import {
   Dropdown,
   Menu,
   Icon,
+  Button,
 } from 'semantic-ui-react';
 
 function Header({ className }) {
@@ -28,6 +29,17 @@ function Header({ className }) {
                 <Dropdown.Item as="a" href="https://zerojudge.tw/" target="_blank">ZeroJudge</Dropdown.Item>
               </Dropdown.Menu>
             </Dropdown>
+            <Menu.Item className="github-item">
+              <Button
+                as="a"
+                href="https://github.com/gau132/gpe-helper2.0"
+                target="_blank"
+                className="github-button"
+              >
+                <Icon name="github" />
+                GitHub
+              </Button>
+            </Menu.Item>
           </Menu.Menu>
         </Container>
       </Menu>
@@ -74,5 +86,36 @@ export default styled(Header)`
 
   .nav-dropdown {
     color: #555 !important;
+  }
+
+  .github-item {
+    padding: 0 0 0 10px !important;
+    display: flex !important;
+    align-items: center !important;
+  }
+
+  .github-button {
+    background: #24292e !important;
+    color: white !important;
+    border-radius: 20px !important;
+    padding: 10px 18px !important;
+    font-weight: 600 !important;
+    display: flex !important;
+    align-items: center !important;
+    transition: all 0.3s ease !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+  }
+
+  .github-button:hover {
+    background: #000 !important;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2) !important;
+    color: white !important;
+  }
+
+  .github-button i {
+    margin-right: 8px !important;
+    margin-bottom: 0 !important;
+    font-size: 1.2em !important;
   }
 `;
