@@ -1,7 +1,7 @@
 ## Website Link
 <p align="center">
 <a href="https://gau132.github.io/gpe-helper2.0/" target="_blank">
-<img src="https://i.imgur.com/2K698Mr.png" >
+<img src="src/index.jpg" >
 </a>
 </p>
 
