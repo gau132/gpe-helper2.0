@@ -1,6 +1,7 @@
 {
   "name": "gpe-helper",
   "version": "1.0.1",
+  "homepage": "https://gau132.github.io/gpe-helper2.0",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
@@ -21,8 +22,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "cross-env BROWSER=none react-scripts start",
-    "build": "react-scripts build",
+    "prestart": "echo. && echo ================================================= && echo    GPE Helper is starting at: && echo    http://localhost:3000 && echo ================================================= && echo.",
+    "start": "cross-env NODE_OPTIONS=--openssl-legacy-provider BROWSER=none react-scripts start",    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint 'src/**/*.js'"

@@ -4,8 +4,7 @@ import styled from 'styled-components';
 import {
   Container,
   Divider,
-  Image,
-  List,
+  Icon,
   Segment,
 } from 'semantic-ui-react';
 import ScrollTop from './ScrollTop';
@@ -24,22 +23,26 @@ function Footer({ className }) {
 
   const onScrollTop = useCallback(() => {
     window.scroll({ top: 0, behavior: 'smooth' });
-  });
+  }, []);
 
   return (
     <div className={className}>
-      <Segment inverted vertical style={{ margin: '5em 0em 0em', padding: '5em 0em' }}>
+      <Segment vertical className="footer-segment">
         <Container textAlign="center">
-          <Divider inverted section />
-          <Image centered size="mini" src="/logo192.png" />
-          <List horizontal inverted divided link size="small">
-            <List.Item as="a" href="https://github.com/setsal/GPE-Helper" target="_blank">
-              Github Repo
-            </List.Item>
-            <List.Item as="a" href="https://github.com/setsal/GPE-Helper/blob/master/LICENSE" target="_blank">
-              LICENSE
-            </List.Item>
-          </List>
+          <Divider section />
+          <div className="footer-content">
+            <div className="footer-brand">
+              <Icon name="terminal" />
+              <span>GPE PLATFORM</span>
+            </div>
+            <p className="footer-text">
+              ©
+              {' '}
+              {new Date().getFullYear()}
+              {' '}
+              全方位程式檢定輔助平台. 所有題目版權歸原出題單位所有.
+            </p>
+          </div>
         </Container>
       </Segment>
       <ScrollTop onClick={onScrollTop} show={!nearTop} />
@@ -48,4 +51,30 @@ function Footer({ className }) {
 }
 
 export default styled(Footer)`
+  .footer-segment {
+    padding: 5em 0em !important;
+    background: #fcfcfc !important;
+    border-top: 1px solid #eee !important;
+  }
+
+  .footer-content {
+    opacity: 0.8;
+  }
+
+  .footer-brand {
+    font-weight: 700;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: #1b1c1d;
+  }
+
+  .footer-text {
+    font-size: 0.9rem;
+    color: #666;
+  }
 `;

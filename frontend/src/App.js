@@ -15,8 +15,8 @@ function App() {
 
   const fetchData = () => {
     Promise.all([
-      fetch('/exams.json'),
-      fetch('/problems.json'),
+      fetch(`${process.env.PUBLIC_URL}/exams.json`),
+      fetch(`${process.env.PUBLIC_URL}/problems.json`),
     ])
       .then(([res1, res2]) => Promise.all([res1.json(), res2.json()]))
       .then(([data1, data2]) => {
@@ -46,7 +46,7 @@ function App() {
   });
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div id="myContainer">
         <Header />
         <div id="main-content">

@@ -1,5 +1,6 @@
 import React, { useReducer, useState } from 'react';
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 import {
   Header,
   Table,
@@ -54,63 +55,58 @@ const Problem = ({
 
   return (
     <div className={className}>
-      <Table sortable celled padded>
+      <Table sortable celled padded className="exam-problem-table">
         <Table.Header>
           <Table.Row>
-            <Table.HeaderCell singleLine>Problem</Table.HeaderCell>
+            <Table.HeaderCell singleLine>PROBLEM</Table.HeaderCell>
             <Table.HeaderCell
               sorted={state.column === 'AcceptRate' ? state.direction : null}
               onClick={() => dispatch({ type: 'CHANGE_SORT', column: 'AcceptRate' })}
               textAlign="right"
             >
-              <Header as="h5">
-                AcceptRate
-                <Header.Subheader>
-                  ACs/Subs
-                </Header.Subheader>
-              </Header>
+              AC RATE
             </Table.HeaderCell>
             <Table.HeaderCell
               sorted={state.column === 'onsite' ? state.direction : null}
               onClick={() => dispatch({ type: 'CHANGE_SORT', column: 'onsite' })}
               textAlign="right"
             >
-              OnSite
+              ONSITE
             </Table.HeaderCell>
             <Table.HeaderCell
               sorted={state.column === 'access' ? state.direction : null}
               onClick={() => dispatch({ type: 'CHANGE_SORT', column: 'access' })}
               textAlign="right"
             >
-              Access
+              ACCESS
             </Table.HeaderCell>
           </Table.Row>
         </Table.Header>
         <Table.Body>
           {state.data.map((problem) => (
             <Table.Row key={problem.pid}>
-
-              <Table.Cell singleLine>
-                <span
-                  aria-hidden
-                  className="problem-name"
-                  onClick={() => {
-                    setModal({
-                      visible: true,
-                      id: problem.pid,
-                    });
-                  }}
-                >
-                  {problem.name}
-                  &nbsp;&nbsp;
-                </span>
-                <div className="category">
-                  {problem.category.map((item) => (
-                    <Label circular size="small" key={item}>
-                      {item}
-                      {' '}
-                    </Label>
-                  ))}
+              <Table.Cell>
+                <div className="problem-cell-content">
+                  <Link
+                    to={`/problems/${problem.pid}`}
+                    className="problem-name"
+                    onClick={(e) => {
+                      e.preventDefault();
+                      setModal({
+                        visible: true,
+                        id: problem.pid,
+                      });
+                    }}
+                  >
+                    {problem.name}
+                  </Link>
+                  <div className="category">
+                    {problem.category.map((item) => (
+                      <Label circular color="grey" size="mini" key={item}>
+                        {item}
+                      </Label>
+                    ))}
+                  </div>
                 </div>
               </Table.Cell>
               <Table.Cell textAlign="right">
@@ -143,19 +139,44 @@ const Problem = ({
         )
         : null}
     </div>
-
   );
 };
 
 export default styled(Problem)`
-.problem-name {
-  font-size: 1.1rem;
-  font-weight: 500;
-  padding: 0!important;
-  color: #1d1df0;
-  cursor: pointer;  
-}
-.category {
-  display: inline;
-}
+  .exam-problem-table {
+    border: none !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05) !important;
+  }
+
+  .problem-cell-content {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .problem-name {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #1b1c1d;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+
+  .problem-name:hover {
+    color: #2185d0;
+    text-decoration: underline;
+  }
+
+  .category {
+    display: flex;
+    gap: 5px;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .problem-cell-content {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 5px;
+    }
+  }
 `;
