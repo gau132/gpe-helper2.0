@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gpe-helper2.0/static/css/main.dfad9d24.chunk.css",
+    "main.js": "/gpe-helper2.0/static/js/main.62fcc99d.chunk.js",
+    "main.js.map": "/gpe-helper2.0/static/js/main.62fcc99d.chunk.js.map",
+    "runtime-main.js": "/gpe-helper2.0/static/js/runtime-main.b6ee61d5.js",
+    "runtime-main.js.map": "/gpe-helper2.0/static/js/runtime-main.b6ee61d5.js.map",
+    "static/css/2.534f2bcf.chunk.css": "/gpe-helper2.0/static/css/2.534f2bcf.chunk.css",
+    "static/js/2.39bafa62.chunk.js": "/gpe-helper2.0/static/js/2.39bafa62.chunk.js",
+    "static/js/2.39bafa62.chunk.js.map": "/gpe-helper2.0/static/js/2.39bafa62.chunk.js.map",
+    "static/js/3.2aa36166.chunk.js": "/gpe-helper2.0/static/js/3.2aa36166.chunk.js",
+    "static/js/3.2aa36166.chunk.js.map": "/gpe-helper2.0/static/js/3.2aa36166.chunk.js.map",
+    "index.html": "/gpe-helper2.0/index.html",
+    "static/css/2.534f2bcf.chunk.css.map": "/gpe-helper2.0/static/css/2.534f2bcf.chunk.css.map",
+    "static/css/main.dfad9d24.chunk.css.map": "/gpe-helper2.0/static/css/main.dfad9d24.chunk.css.map",
+    "static/js/2.39bafa62.chunk.js.LICENSE.txt": "/gpe-helper2.0/static/js/2.39bafa62.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/gpe-helper2.0/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6ee61d5.js",
+    "static/css/2.534f2bcf.chunk.css",
+    "static/js/2.39bafa62.chunk.js",
+    "static/css/main.dfad9d24.chunk.css",
+    "static/js/main.62fcc99d.chunk.js"
+  ]
+}

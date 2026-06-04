@@ -1,0 +1,1733 @@
+[
+    {
+        "pid": "10038",
+        "name": "10038: Disk Tree",
+        "subs": 321,
+        "ACs": 81,
+        "AcceptRate": 25.23,
+        "onsite": 32,
+        "access": 3285,
+        "LastAppearance": "2020-06-03",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10409",
+        "name": "10409: A mid-summer night's dream",
+        "subs": 3810,
+        "ACs": 718,
+        "AcceptRate": 18.85,
+        "onsite": 18,
+        "access": 15437,
+        "LastAppearance": "2020-07-13",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "排序"
+        ]
+    },
+    {
+        "pid": "10414",
+        "name": "10414: Bangla Numbers",
+        "subs": 2979,
+        "ACs": 314,
+        "AcceptRate": 10.54,
+        "onsite": 6,
+        "access": 7591,
+        "LastAppearance": "2020-04-15",
+        "Appearance": 1,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10416",
+        "name": "10416: Last Digit",
+        "subs": 4229,
+        "ACs": 651,
+        "AcceptRate": 15.39,
+        "onsite": 21,
+        "access": 10939,
+        "LastAppearance": "2020-05-06",
+        "Appearance": 1,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "數學"
+        ]
+    },
+    {
+        "pid": "10417",
+        "name": "10417: The Hotel with Infinite Rooms",
+        "subs": 2846,
+        "ACs": 865,
+        "AcceptRate": 30.39,
+        "onsite": 13,
+        "access": 8187,
+        "LastAppearance": "2020-06-13",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "10418",
+        "name": "10418: Minesweeper",
+        "subs": 4604,
+        "ACs": 784,
+        "AcceptRate": 17.03,
+        "onsite": 11,
+        "access": 11384,
+        "LastAppearance": "2019-03-04",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "模擬"
+        ]
+    },
+    {
+        "pid": "10421",
+        "name": "10421: All You Need Is Love",
+        "subs": 2638,
+        "ACs": 795,
+        "AcceptRate": 30.14,
+        "onsite": 21,
+        "access": 7750,
+        "LastAppearance": "2019-04-29",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "進制轉換",
+            "數學/數論",
+            "最大公因數"
+        ]
+    },
+    {
+        "pid": "10422",
+        "name": "10422: Is This Integration ?",
+        "subs": 684,
+        "ACs": 257,
+        "AcceptRate": 37.57,
+        "onsite": 3,
+        "access": 3395,
+        "LastAppearance": "2021-01-18",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "10429",
+        "name": "10429: Contest Scoreboard",
+        "subs": 1160,
+        "ACs": 219,
+        "AcceptRate": 18.88,
+        "onsite": 18,
+        "access": 6426,
+        "LastAppearance": "2021-04-07",
+        "Appearance": 4,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "排序",
+            "字串處理",
+            "DP"
+        ]
+    },
+    {
+        "pid": "10432",
+        "name": "10432: Mine Sweeper",
+        "subs": 1865,
+        "ACs": 275,
+        "AcceptRate": 14.75,
+        "onsite": 11,
+        "access": 4332,
+        "LastAppearance": "2019-12-04",
+        "Appearance": 1,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10437",
+        "name": "10437: Zeros and Ones",
+        "subs": 1595,
+        "ACs": 452,
+        "AcceptRate": 28.34,
+        "onsite": 7,
+        "access": 5020,
+        "LastAppearance": "2020-10-21",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10456",
+        "name": "10456: Largest Square",
+        "subs": 73,
+        "ACs": 0,
+        "AcceptRate": 0.0,
+        "onsite": 3,
+        "access": 3071,
+        "LastAppearance": "2019-10-02",
+        "Appearance": 1,
+        "rating": 0,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10465",
+        "name": "10465: Necklace",
+        "subs": 859,
+        "ACs": 181,
+        "AcceptRate": 21.07,
+        "onsite": 13,
+        "access": 3358,
+        "LastAppearance": "2020-05-06",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "10468",
+        "name": "10468: Maximum Product",
+        "subs": 2649,
+        "ACs": 306,
+        "AcceptRate": 11.55,
+        "onsite": 11,
+        "access": 5001,
+        "LastAppearance": "2020-03-18",
+        "Appearance": 1,
+        "rating": 1,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "10471",
+        "name": "10471: COUNTING CHAOS",
+        "subs": 596,
+        "ACs": 153,
+        "AcceptRate": 25.67,
+        "onsite": 10,
+        "access": 2806,
+        "LastAppearance": "2020-12-16",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10500",
+        "name": "10500: Brick Wall Patterns",
+        "subs": 2175,
+        "ACs": 555,
+        "AcceptRate": 25.52,
+        "onsite": 5,
+        "access": 8262,
+        "LastAppearance": "2020-05-20",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "費氏數列",
+            "DP"
+        ]
+    },
+    {
+        "pid": "10501",
+        "name": "10501: Safe Salutations",
+        "subs": 2379,
+        "ACs": 392,
+        "AcceptRate": 16.48,
+        "onsite": 6,
+        "access": 8554,
+        "LastAppearance": "2020-07-20",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "10503",
+        "name": "10503: Show the Sequence",
+        "subs": 1157,
+        "ACs": 177,
+        "AcceptRate": 15.3,
+        "onsite": 19,
+        "access": 8263,
+        "LastAppearance": "2021-03-22",
+        "Appearance": 5,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10505",
+        "name": "10505: Center of Masses",
+        "subs": 241,
+        "ACs": 20,
+        "AcceptRate": 8.3,
+        "onsite": 3,
+        "access": 1672,
+        "LastAppearance": "2019-12-30",
+        "Appearance": 2,
+        "rating": 0,
+        "favorite": 0,
+        "category": [
+            "排序"
+        ]
+    },
+    {
+        "pid": "10520",
+        "name": "10520: Conformity",
+        "subs": 1668,
+        "ACs": 478,
+        "AcceptRate": 28.66,
+        "onsite": 32,
+        "access": 9880,
+        "LastAppearance": "2020-12-16",
+        "Appearance": 3,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "排序"
+        ]
+    },
+    {
+        "pid": "10528",
+        "name": "10528: Light, more light",
+        "subs": 1390,
+        "ACs": 317,
+        "AcceptRate": 22.81,
+        "onsite": 9,
+        "access": 4799,
+        "LastAppearance": "2021-03-22",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "10531",
+        "name": "10531: Zipf's Law",
+        "subs": 1343,
+        "ACs": 169,
+        "AcceptRate": 12.58,
+        "onsite": 27,
+        "access": 5190,
+        "LastAppearance": "2020-11-11",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "排序",
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10533",
+        "name": "10533: The Trip",
+        "subs": 668,
+        "ACs": 80,
+        "AcceptRate": 11.98,
+        "onsite": 5,
+        "access": 2452,
+        "LastAppearance": "2019-03-20",
+        "Appearance": 1,
+        "rating": 0,
+        "favorite": 0,
+        "category": [
+            "排序"
+        ]
+    },
+    {
+        "pid": "10535",
+        "name": "10535: Prime Distance",
+        "subs": 1080,
+        "ACs": 160,
+        "AcceptRate": 14.81,
+        "onsite": 7,
+        "access": 6809,
+        "LastAppearance": "2021-03-22",
+        "Appearance": 4,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "數學/數論"
+        ]
+    },
+    {
+        "pid": "10551",
+        "name": "10551: Bee Maja",
+        "subs": 1018,
+        "ACs": 394,
+        "AcceptRate": 38.7,
+        "onsite": 21,
+        "access": 5268,
+        "LastAppearance": "2021-04-26",
+        "Appearance": 5,
+        "rating": 3,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "10552",
+        "name": "10552: Automated Judge Script",
+        "subs": 689,
+        "ACs": 173,
+        "AcceptRate": 25.11,
+        "onsite": 12,
+        "access": 2555,
+        "LastAppearance": "2020-05-20",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10559",
+        "name": "10559: I Love Big Numbers !",
+        "subs": 927,
+        "ACs": 260,
+        "AcceptRate": 28.05,
+        "onsite": 8,
+        "access": 3451,
+        "LastAppearance": "2020-06-03",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "數學/數論"
+        ]
+    },
+    {
+        "pid": "10567",
+        "name": "10567: Common Permutation",
+        "subs": 2319,
+        "ACs": 580,
+        "AcceptRate": 25.01,
+        "onsite": 11,
+        "access": 6359,
+        "LastAppearance": "2019-10-16",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10579",
+        "name": "10579: Hay Points",
+        "subs": 698,
+        "ACs": 397,
+        "AcceptRate": 56.88,
+        "onsite": 15,
+        "access": 3501,
+        "LastAppearance": "2019-12-18",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10582",
+        "name": "10582: Power Strings",
+        "subs": 1555,
+        "ACs": 281,
+        "AcceptRate": 18.07,
+        "onsite": 17,
+        "access": 4286,
+        "LastAppearance": "2019-05-29",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "搜尋",
+            "質因數分解"
+        ]
+    },
+    {
+        "pid": "10600",
+        "name": "10600: Network Connections",
+        "subs": 725,
+        "ACs": 125,
+        "AcceptRate": 17.24,
+        "onsite": 10,
+        "access": 4154,
+        "LastAppearance": "2021-04-26",
+        "Appearance": 4,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10601",
+        "name": "10601: Eternal Truths",
+        "subs": 260,
+        "ACs": 49,
+        "AcceptRate": 18.85,
+        "onsite": 13,
+        "access": 1999,
+        "LastAppearance": "2020-07-01",
+        "Appearance": 2,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "搜尋/圖論"
+        ]
+    },
+    {
+        "pid": "10602",
+        "name": "10602: Longest Paths",
+        "subs": 544,
+        "ACs": 91,
+        "AcceptRate": 16.73,
+        "onsite": 7,
+        "access": 4034,
+        "LastAppearance": "2021-05-12",
+        "Appearance": 4,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "LCS",
+            "DP",
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "10603",
+        "name": "10603: Cutting Sticks",
+        "subs": 299,
+        "ACs": 114,
+        "AcceptRate": 38.13,
+        "onsite": 9,
+        "access": 2608,
+        "LastAppearance": "2020-12-16",
+        "Appearance": 3,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "10604",
+        "name": "10604: Packing polygons",
+        "subs": 69,
+        "ACs": 12,
+        "AcceptRate": 17.39,
+        "onsite": 3,
+        "access": 953,
+        "LastAppearance": "2020-11-11",
+        "Appearance": 2,
+        "rating": 0,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "10605",
+        "name": "10605: Count the Trees",
+        "subs": 90,
+        "ACs": 40,
+        "AcceptRate": 44.44,
+        "onsite": 4,
+        "access": 1410,
+        "LastAppearance": "2021-04-07",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "DP",
+            "質因數分解"
+        ]
+    },
+    {
+        "pid": "10606",
+        "name": "10606: How Big Is It?",
+        "subs": 505,
+        "ACs": 55,
+        "AcceptRate": 10.89,
+        "onsite": 34,
+        "access": 5274,
+        "LastAppearance": "2020-11-11",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "Geometry",
+            "Circle",
+            "Math",
+            "排序"
+        ]
+    },
+    {
+        "pid": "10607",
+        "name": "10607: Joseph's Cousin",
+        "subs": 1294,
+        "ACs": 280,
+        "AcceptRate": 21.64,
+        "onsite": 13,
+        "access": 8807,
+        "LastAppearance": "2020-09-11",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "數學/數論"
+        ]
+    },
+    {
+        "pid": "10608",
+        "name": "10608: Minimal coverage",
+        "subs": 1064,
+        "ACs": 147,
+        "AcceptRate": 13.82,
+        "onsite": 25,
+        "access": 4140,
+        "LastAppearance": "2020-10-21",
+        "Appearance": 4,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "排序",
+            "貪婪演算法"
+        ]
+    },
+    {
+        "pid": "10610",
+        "name": "10610: Curling up the cube",
+        "subs": 120,
+        "ACs": 29,
+        "AcceptRate": 24.17,
+        "onsite": 5,
+        "access": 1488,
+        "LastAppearance": "2020-09-11",
+        "Appearance": 4,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "搜尋/圖論"
+        ]
+    },
+    {
+        "pid": "10613",
+        "name": "10613: Tug of War",
+        "subs": 90,
+        "ACs": 15,
+        "AcceptRate": 16.67,
+        "onsite": 3,
+        "access": 675,
+        "LastAppearance": "2021-03-22",
+        "Appearance": 2,
+        "rating": 0,
+        "favorite": 0,
+        "category": [
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "10615",
+        "name": "10615: Divisibility",
+        "subs": 607,
+        "ACs": 193,
+        "AcceptRate": 31.8,
+        "onsite": 9,
+        "access": 3184,
+        "LastAppearance": "2020-06-03",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "10621",
+        "name": "10621: Luggage",
+        "subs": 1324,
+        "ACs": 335,
+        "AcceptRate": 25.3,
+        "onsite": 18,
+        "access": 6938,
+        "LastAppearance": "2021-01-06",
+        "Appearance": 4,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "DP",
+            "動態規劃",
+            "子集和問題"
+        ]
+    },
+    {
+        "pid": "10633",
+        "name": "10633: Take the Land",
+        "subs": 333,
+        "ACs": 120,
+        "AcceptRate": 36.04,
+        "onsite": 9,
+        "access": 2175,
+        "LastAppearance": "2020-06-03",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "10636",
+        "name": "10636: Gopher II",
+        "subs": 104,
+        "ACs": 18,
+        "AcceptRate": 17.31,
+        "onsite": 2,
+        "access": 668,
+        "LastAppearance": "2020-11-30",
+        "Appearance": 2,
+        "rating": 0,
+        "favorite": 0,
+        "category": [
+            "搜尋/圖論"
+        ]
+    },
+    {
+        "pid": "10637",
+        "name": "10637: Tight words",
+        "subs": 287,
+        "ACs": 89,
+        "AcceptRate": 31.01,
+        "onsite": 7,
+        "access": 2267,
+        "LastAppearance": "2021-04-07",
+        "Appearance": 3,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "10642",
+        "name": "10642: Marbles",
+        "subs": 586,
+        "ACs": 107,
+        "AcceptRate": 18.26,
+        "onsite": 9,
+        "access": 2865,
+        "LastAppearance": "2021-03-22",
+        "Appearance": 2,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "輾轉相除法",
+            "數學/數論",
+            "數論"
+        ]
+    },
+    {
+        "pid": "10644",
+        "name": "10644: The Tourist Guide",
+        "subs": 289,
+        "ACs": 81,
+        "AcceptRate": 28.03,
+        "onsite": 5,
+        "access": 2502,
+        "LastAppearance": "2021-01-18",
+        "Appearance": 3,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "10645",
+        "name": "10645: Euclid Problem",
+        "subs": 149,
+        "ACs": 40,
+        "AcceptRate": 26.85,
+        "onsite": 3,
+        "access": 1362,
+        "LastAppearance": "2019-03-04",
+        "Appearance": 1,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "輾轉相除法",
+            "數學/數論",
+            "數論"
+        ]
+    },
+    {
+        "pid": "10655",
+        "name": "10655: Sumsets",
+        "subs": 2994,
+        "ACs": 436,
+        "AcceptRate": 14.56,
+        "onsite": 18,
+        "access": 13488,
+        "LastAppearance": "2021-05-12",
+        "Appearance": 6,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "排序"
+        ]
+    },
+    {
+        "pid": "10658",
+        "name": "10658: Is Bigger Smarter?",
+        "subs": 335,
+        "ACs": 24,
+        "AcceptRate": 7.16,
+        "onsite": 6,
+        "access": 1836,
+        "LastAppearance": "2021-01-06",
+        "Appearance": 3,
+        "rating": 0,
+        "favorite": 0,
+        "category": [
+            "排序",
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "10675",
+        "name": "10675: Urn-ball Probabilities!",
+        "subs": 70,
+        "ACs": 28,
+        "AcceptRate": 40.0,
+        "onsite": 2,
+        "access": 599,
+        "LastAppearance": "2019-12-30",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "10679",
+        "name": "10679: Irreducible Basic Fractions",
+        "subs": 963,
+        "ACs": 155,
+        "AcceptRate": 16.1,
+        "onsite": 11,
+        "access": 4017,
+        "LastAppearance": "2021-01-06",
+        "Appearance": 3,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "數學/數論"
+        ]
+    },
+    {
+        "pid": "10732",
+        "name": "10732: Snow Clearing",
+        "subs": 219,
+        "ACs": 58,
+        "AcceptRate": 26.48,
+        "onsite": 3,
+        "access": 1722,
+        "LastAppearance": "2021-03-10",
+        "Appearance": 2,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "10741",
+        "name": "10741: The Grand Dinner",
+        "subs": 104,
+        "ACs": 5,
+        "AcceptRate": 4.81,
+        "onsite": 2,
+        "access": 746,
+        "LastAppearance": "2021-03-10",
+        "Appearance": 2,
+        "rating": 0,
+        "favorite": 0,
+        "category": [
+            "排序"
+        ]
+    },
+    {
+        "pid": "10766",
+        "name": "10766: Antimatter Ray Clearcutting",
+        "subs": 32,
+        "ACs": 11,
+        "AcceptRate": 34.38,
+        "onsite": 1,
+        "access": 444,
+        "LastAppearance": "2019-03-20",
+        "Appearance": 1,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "排序",
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "10906",
+        "name": "10906: Matrix Decompressing",
+        "subs": 12,
+        "ACs": 0,
+        "AcceptRate": 0.0,
+        "onsite": 2,
+        "access": 205,
+        "LastAppearance": "2019-07-22",
+        "Appearance": 1,
+        "rating": 0,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "搜尋/圖論"
+        ]
+    },
+    {
+        "pid": "11006",
+        "name": "11006: Rank the Languages",
+        "subs": 1242,
+        "ACs": 404,
+        "AcceptRate": 32.53,
+        "onsite": 23,
+        "access": 6414,
+        "LastAppearance": "2021-04-07",
+        "Appearance": 3,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "排序",
+            "字串處理",
+            "搜尋/圖論"
+        ]
+    },
+    {
+        "pid": "11017",
+        "name": "11017: Longest Common Subsequence",
+        "subs": 1462,
+        "ACs": 330,
+        "AcceptRate": 22.57,
+        "onsite": 13,
+        "access": 4950,
+        "LastAppearance": "2021-05-12",
+        "Appearance": 3,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "LCS",
+            "DP",
+            "動態規劃",
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "11019",
+        "name": "11019: Die Game",
+        "subs": 3290,
+        "ACs": 1092,
+        "AcceptRate": 33.19,
+        "onsite": 15,
+        "access": 13250,
+        "LastAppearance": "2020-09-11",
+        "Appearance": 4,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "模擬"
+        ]
+    },
+    {
+        "pid": "11028",
+        "name": "11028: Digit Primes",
+        "subs": 704,
+        "ACs": 216,
+        "AcceptRate": 30.68,
+        "onsite": 7,
+        "access": 2777,
+        "LastAppearance": "2021-05-12",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "區間問題",
+            "數學/數論",
+            "質數"
+        ]
+    },
+    {
+        "pid": "11041",
+        "name": "11041: Children's Game",
+        "subs": 2466,
+        "ACs": 482,
+        "AcceptRate": 19.55,
+        "onsite": 19,
+        "access": 7019,
+        "LastAppearance": "2020-10-21",
+        "Appearance": 3,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "排序",
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "11067",
+        "name": "11067: Cola",
+        "subs": 5063,
+        "ACs": 1206,
+        "AcceptRate": 23.82,
+        "onsite": 16,
+        "access": 12697,
+        "LastAppearance": "2019-09-06",
+        "Appearance": 1,
+        "rating": 3,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "11130",
+        "name": "11130: The Priest Mathematician",
+        "subs": 331,
+        "ACs": 45,
+        "AcceptRate": 13.6,
+        "onsite": 16,
+        "access": 1891,
+        "LastAppearance": "2021-04-26",
+        "Appearance": 1,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "11174",
+        "name": "11174: Homer Simpson",
+        "subs": 3760,
+        "ACs": 495,
+        "AcceptRate": 13.16,
+        "onsite": 12,
+        "access": 9119,
+        "LastAppearance": "2020-06-17",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "DP、Greedy",
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "11179",
+        "name": "11179: Wavio Sequence",
+        "subs": 650,
+        "ACs": 127,
+        "AcceptRate": 19.54,
+        "onsite": 22,
+        "access": 2994,
+        "LastAppearance": "2019-07-15",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "二分搜尋"
+        ]
+    },
+    {
+        "pid": "11184",
+        "name": "11184: Opening Doors",
+        "subs": 76,
+        "ACs": 9,
+        "AcceptRate": 11.84,
+        "onsite": 4,
+        "access": 644,
+        "LastAppearance": "2020-05-20",
+        "Appearance": 2,
+        "rating": 0,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "11192",
+        "name": "11192: Simple Minded Hashing",
+        "subs": 410,
+        "ACs": 157,
+        "AcceptRate": 38.29,
+        "onsite": 6,
+        "access": 2898,
+        "LastAppearance": "2021-03-10",
+        "Appearance": 3,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "11266",
+        "name": "11266: Generate random numbers",
+        "subs": 168,
+        "ACs": 72,
+        "AcceptRate": 42.86,
+        "onsite": 1,
+        "access": 921,
+        "LastAppearance": "2019-06-10",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "2008-06",
+        "name": "2008-06: Parser and evaluator",
+        "subs": 194,
+        "ACs": 17,
+        "AcceptRate": 8.76,
+        "onsite": 51,
+        "access": 3341,
+        "LastAppearance": "2020-09-11",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "2008-19",
+        "name": "2008-19: Set partition",
+        "subs": 660,
+        "ACs": 51,
+        "AcceptRate": 7.73,
+        "onsite": 30,
+        "access": 4997,
+        "LastAppearance": "2020-11-30",
+        "Appearance": 4,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "2008-28",
+        "name": "2008-28: Longest monotonically increasing subsequence",
+        "subs": 430,
+        "ACs": 72,
+        "AcceptRate": 16.74,
+        "onsite": 33,
+        "access": 3667,
+        "LastAppearance": "2020-07-13",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "LCS",
+            "DP"
+        ]
+    },
+    {
+        "pid": "2008-37",
+        "name": "2008-37: Prefix expression evaluation",
+        "subs": 1232,
+        "ACs": 253,
+        "AcceptRate": 20.54,
+        "onsite": 39,
+        "access": 5830,
+        "LastAppearance": "2020-11-11",
+        "Appearance": 4,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "2009-02",
+        "name": "2009-02: Line Overlap Problem",
+        "subs": 606,
+        "ACs": 37,
+        "AcceptRate": 6.11,
+        "onsite": 24,
+        "access": 3775,
+        "LastAppearance": "2021-04-26",
+        "Appearance": 3,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "排序"
+        ]
+    },
+    {
+        "pid": "2009-17",
+        "name": "2009-17: Binary tree traversals",
+        "subs": 523,
+        "ACs": 109,
+        "AcceptRate": 20.84,
+        "onsite": 33,
+        "access": 3210,
+        "LastAppearance": "2020-06-13",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "2009-24",
+        "name": "2009-24: Unique lines",
+        "subs": 1485,
+        "ACs": 197,
+        "AcceptRate": 13.27,
+        "onsite": 41,
+        "access": 7759,
+        "LastAppearance": "2021-01-06",
+        "Appearance": 8,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "數學/數論"
+        ]
+    },
+    {
+        "pid": "2015-01",
+        "name": "2015-01: Missing Numbers",
+        "subs": 2044,
+        "ACs": 236,
+        "AcceptRate": 11.55,
+        "onsite": 6,
+        "access": 3954,
+        "LastAppearance": "2020-04-15",
+        "Appearance": 1,
+        "rating": 1,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "2015-02",
+        "name": "2015-02: Recursion and Mod",
+        "subs": 2006,
+        "ACs": 217,
+        "AcceptRate": 10.82,
+        "onsite": 8,
+        "access": 4981,
+        "LastAppearance": "2020-11-30",
+        "Appearance": 3,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "費氏數列",
+            "數學/數論"
+        ]
+    },
+    {
+        "pid": "2015-03",
+        "name": "2015-03: Sudoku (As Good As Lee Hsien Loong)",
+        "subs": 200,
+        "ACs": 20,
+        "AcceptRate": 10.0,
+        "onsite": 8,
+        "access": 2383,
+        "LastAppearance": "2020-06-17",
+        "Appearance": 5,
+        "rating": 0,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "2015-04",
+        "name": "2015-04: The N-th Element",
+        "subs": 1073,
+        "ACs": 15,
+        "AcceptRate": 1.4,
+        "onsite": 8,
+        "access": 2454,
+        "LastAppearance": "2020-11-11",
+        "Appearance": 2,
+        "rating": 0,
+        "favorite": 0,
+        "category": [
+            "字串",
+            "排列",
+            "遞迴"
+        ]
+    },
+    {
+        "pid": "2015-07",
+        "name": "2015-07: Minimum Path Sum",
+        "subs": 952,
+        "ACs": 254,
+        "AcceptRate": 26.68,
+        "onsite": 7,
+        "access": 2451,
+        "LastAppearance": "2020-06-03",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "2015-08",
+        "name": "2015-08: Climbing Stairs",
+        "subs": 2582,
+        "ACs": 160,
+        "AcceptRate": 6.2,
+        "onsite": 7,
+        "access": 5923,
+        "LastAppearance": "2020-07-20",
+        "Appearance": 3,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "2015-09",
+        "name": "2015-09: Longest Increasing Subsequence",
+        "subs": 1407,
+        "ACs": 324,
+        "AcceptRate": 23.03,
+        "onsite": 9,
+        "access": 4593,
+        "LastAppearance": "2021-04-26",
+        "Appearance": 4,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "LCS",
+            "DP",
+            "二分搜尋"
+        ]
+    },
+    {
+        "pid": "21944",
+        "name": "21944: Power Crisis",
+        "subs": 2386,
+        "ACs": 533,
+        "AcceptRate": 22.34,
+        "onsite": 28,
+        "access": 9512,
+        "LastAppearance": "2021-04-07",
+        "Appearance": 6,
+        "rating": 3,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "21964",
+        "name": "21964: Fill the Containers",
+        "subs": 526,
+        "ACs": 105,
+        "AcceptRate": 19.96,
+        "onsite": 28,
+        "access": 2440,
+        "LastAppearance": "2020-04-15",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "22151",
+        "name": "22151: Big Mod",
+        "subs": 2139,
+        "ACs": 308,
+        "AcceptRate": 14.4,
+        "onsite": 18,
+        "access": 4334,
+        "LastAppearance": "2020-10-07",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "數學/數論"
+        ]
+    },
+    {
+        "pid": "22161",
+        "name": "22161: Euclid Problem",
+        "subs": 469,
+        "ACs": 116,
+        "AcceptRate": 24.73,
+        "onsite": 6,
+        "access": 2260,
+        "LastAppearance": "2021-03-10",
+        "Appearance": 3,
+        "rating": 1,
+        "favorite": 0,
+        "category": [
+            "輾轉相除法",
+            "數學/數論",
+            "數論"
+        ]
+    },
+    {
+        "pid": "22171",
+        "name": "22171: Dungeon Master",
+        "subs": 768,
+        "ACs": 193,
+        "AcceptRate": 25.13,
+        "onsite": 15,
+        "access": 4427,
+        "LastAppearance": "2020-09-04",
+        "Appearance": 4,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "搜尋/圖論"
+        ]
+    },
+    {
+        "pid": "22181",
+        "name": "22181: Dollars",
+        "subs": 910,
+        "ACs": 220,
+        "AcceptRate": 24.18,
+        "onsite": 19,
+        "access": 5531,
+        "LastAppearance": "2021-01-18",
+        "Appearance": 4,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "找零問題",
+            "動態規劃"
+        ]
+    },
+    {
+        "pid": "22351",
+        "name": "22351: Quirksome Squares",
+        "subs": 1341,
+        "ACs": 417,
+        "AcceptRate": 31.1,
+        "onsite": 11,
+        "access": 5026,
+        "LastAppearance": "2021-05-12",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "22821",
+        "name": "22821: Oil Deposits",
+        "subs": 1884,
+        "ACs": 528,
+        "AcceptRate": 28.03,
+        "onsite": 16,
+        "access": 5908,
+        "LastAppearance": "2020-06-17",
+        "Appearance": 3,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "搜尋/圖論"
+        ]
+    },
+    {
+        "pid": "23551",
+        "name": "23551: Largest Square",
+        "subs": 2489,
+        "ACs": 530,
+        "AcceptRate": 21.29,
+        "onsite": 16,
+        "access": 6968,
+        "LastAppearance": "2021-04-26",
+        "Appearance": 3,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "23571",
+        "name": "23571: Smith Numbers",
+        "subs": 1078,
+        "ACs": 210,
+        "AcceptRate": 19.48,
+        "onsite": 21,
+        "access": 4393,
+        "LastAppearance": "2021-03-10",
+        "Appearance": 3,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "質因數分解",
+            "質數"
+        ]
+    },
+    {
+        "pid": "23581",
+        "name": "23581: Glass Beads",
+        "subs": 202,
+        "ACs": 88,
+        "AcceptRate": 43.56,
+        "onsite": 7,
+        "access": 1735,
+        "LastAppearance": "2020-04-15",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "23651",
+        "name": "23651: The jackpot",
+        "subs": 2157,
+        "ACs": 435,
+        "AcceptRate": 20.17,
+        "onsite": 12,
+        "access": 4256,
+        "LastAppearance": "2020-05-20",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "23661",
+        "name": "23661: Bit Mask",
+        "subs": 419,
+        "ACs": 118,
+        "AcceptRate": 28.16,
+        "onsite": 8,
+        "access": 2922,
+        "LastAppearance": "2020-06-13",
+        "Appearance": 3,
+        "rating": 2,
+        "favorite": 0,
+        "category": []
+    },
+    {
+        "pid": "23671",
+        "name": "23671: Camel trading",
+        "subs": 1404,
+        "ACs": 293,
+        "AcceptRate": 20.87,
+        "onsite": 18,
+        "access": 5248,
+        "LastAppearance": "2020-10-21",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "23681",
+        "name": "23681: Bachet's Game",
+        "subs": 211,
+        "ACs": 105,
+        "AcceptRate": 49.76,
+        "onsite": 8,
+        "access": 2125,
+        "LastAppearance": "2020-07-13",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "背包"
+        ]
+    },
+    {
+        "pid": "23771",
+        "name": "23771: Lexicographic Order",
+        "subs": 373,
+        "ACs": 73,
+        "AcceptRate": 19.57,
+        "onsite": 25,
+        "access": 2765,
+        "LastAppearance": "2020-06-13",
+        "Appearance": 2,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "數學/數論"
+        ]
+    },
+    {
+        "pid": "23781",
+        "name": "23781: Making Change",
+        "subs": 323,
+        "ACs": 74,
+        "AcceptRate": 22.91,
+        "onsite": 20,
+        "access": 3347,
+        "LastAppearance": "2021-04-07",
+        "Appearance": 3,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "找零問題",
+            "有限背包",
+            "DP",
+            "Greedy"
+        ]
+    },
+    {
+        "pid": "24461",
+        "name": "24461: Sum of Consecutive Prime Numbers",
+        "subs": 688,
+        "ACs": 404,
+        "AcceptRate": 58.72,
+        "onsite": 11,
+        "access": 4164,
+        "LastAppearance": "2020-11-30",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "數學/數論"
+        ]
+    },
+    {
+        "pid": "24681",
+        "name": "24681: Perfection",
+        "subs": 4145,
+        "ACs": 993,
+        "AcceptRate": 23.96,
+        "onsite": 12,
+        "access": 6889,
+        "LastAppearance": "2019-07-22",
+        "Appearance": 1,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "prime"
+        ]
+    },
+    {
+        "pid": "24731",
+        "name": "24731: Roads in the North",
+        "subs": 416,
+        "ACs": 89,
+        "AcceptRate": 21.39,
+        "onsite": 17,
+        "access": 4280,
+        "LastAppearance": "2021-05-12",
+        "Appearance": 4,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "搜尋/圖論"
+        ]
+    },
+    {
+        "pid": "24911",
+        "name": "24911: Robot Instructions",
+        "subs": 2550,
+        "ACs": 964,
+        "AcceptRate": 37.8,
+        "onsite": 12,
+        "access": 6780,
+        "LastAppearance": "2020-09-04",
+        "Appearance": 2,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "模擬"
+        ]
+    },
+    {
+        "pid": "24931",
+        "name": "24931: Extend to Palindromes",
+        "subs": 2013,
+        "ACs": 308,
+        "AcceptRate": 15.3,
+        "onsite": 22,
+        "access": 6746,
+        "LastAppearance": "2021-03-22",
+        "Appearance": 5,
+        "rating": 2,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "迴文"
+        ]
+    },
+    {
+        "pid": "24941",
+        "name": "24941: Uncompress",
+        "subs": 600,
+        "ACs": 202,
+        "AcceptRate": 33.67,
+        "onsite": 21,
+        "access": 4658,
+        "LastAppearance": "2021-01-06",
+        "Appearance": 4,
+        "rating": 3,
+        "favorite": 0,
+        "category": [
+            "字串處理"
+        ]
+    },
+    {
+        "pid": "25081",
+        "name": "25081: Solving Maze Problems",
+        "subs": 326,
+        "ACs": 54,
+        "AcceptRate": 16.56,
+        "onsite": 2,
+        "access": 2641,
+        "LastAppearance": "2020-12-16",
+        "Appearance": 2,
+        "rating": 0,
+        "favorite": 0,
+        "category": [
+            "字串處理",
+            "搜尋/圖論"
+        ]
+    }
+]
